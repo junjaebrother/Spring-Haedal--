@@ -1,4 +1,4 @@
-package com.group.libraryapp.controller.domain;
+package com.group.libraryapp.domain;
 
 public class Fruit {
 
